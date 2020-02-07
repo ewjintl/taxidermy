@@ -1,3 +1,10 @@
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+
+
 .important {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: green;
@@ -7,7 +14,7 @@
 
 .unimportant {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: brown;
+  /* color: brown; */
   font-size: 10px;
 
 }
