@@ -3,8 +3,13 @@
   color: white;
 }
 
+.clickable {
+  border: 7px solid black;
+}
 
-
+body {
+  padding: 20px;
+}
 .important {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: green;
